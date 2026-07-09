@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Rohan Tundalwar
+# Hi 👋 I'm Rohan Tundalwar
 
-## DevOps Engineer | Linux Enthusiast | Cloud Learner
+## DevOps Engineer | Linux Administrator | Cloud Enthusiast
 
 I am an Electronics & Telecommunication Engineering graduate passionate about **DevOps, Linux, Cloud Computing, and Automation**.
 
