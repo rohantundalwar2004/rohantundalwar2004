@@ -7,28 +7,26 @@ I am an Electronics & Telecommunication Engineering graduate passionate about **
 Currently, I am building hands-on projects in **Linux, Bash Shell Scripting, Git, GitHub**, while continuously expanding my skills in **Docker, Jenkins, Kubernetes, Terraform, and AWS**.
 
 ---
+# 🛠 Tech Stack
 
-# 🚀 Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Operating System
-- Linux
-- macOS
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
-### Version Control
-- Git
-- GitHub
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Scripting
-- Bash Shell Scripting
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### Cloud
-- AWS (Learning)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-### DevOps Tools
-- Docker (Learning)
-- Jenkins (Learning)
-- Kubernetes (Learning)
-- Terraform (Learning)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
 
 ---
 
