@@ -109,7 +109,7 @@ My goal is to become a **DevOps Engineer** by mastering Linux Administration, Cl
 📧 Email: **rohantundalwar2004@gmail.com**
 
 💼 LinkedIn:
-https://www.linkedin.com/in/rohan-tundalwar
+[https://www.linkedin.com/in/rohan-tundalwar](https://www.linkedin.com/in/rohan-tundalwar-27437732b/)
 
 🐙 GitHub:
 https://github.com/rohantundalwar2004
