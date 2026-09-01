@@ -4,29 +4,21 @@
 
 I am an Electronics & Telecommunication Engineering graduate passionate about **DevOps, Linux, Cloud Computing, and Automation**.
 
-Currently, I am building hands-on projects in **Linux, Bash Shell Scripting, Git, GitHub**, while continuously expanding my skills in **Docker, Jenkins, Kubernetes, Terraform, and AWS**.
+Currently, I am building hands-on projects in **Linux, AWS, Bash Shell Scripting, Git, GitHub**, while continuously expanding my skills in **Docker, Jenkins, Kubernetes,and Terraform**.
 
 ---
+
 # 🛠 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
 
 ---
 
@@ -44,6 +36,9 @@ Currently, I am building hands-on projects in **Linux, Bash Shell Scripting, Git
 ---
 
 # 📂 Featured Projects
+
+### 🔹 [AWS Production-Style Architecture](https://github.com/rohantundalwar2004/aws-production-style-architecture)
+Designed a highly available, fault-tolerant infrastructure built on AWS. This project features a multi-AZ VPC with public and private subnets, NAT Gateways for secure outbound traffic, a Bastion Host for secure access, and an Application Load Balancer (ALB) integrated with Auto Scaling Groups (ASG) for dynamic traffic management.
 
 ### 🔹 Linux Admin Toolkit
 A collection of Bash scripts for Linux administration tasks.
@@ -82,39 +77,25 @@ My goal is to become a **DevOps Engineer** by mastering Linux Administration, Cl
 
 # 📈 Current Learning Roadmap
 
-✔ Linux
-
-✔ Bash Scripting
-
-✔ Git & GitHub
-
-⬜ Docker
-
-⬜ Jenkins
-
-⬜ Kubernetes
-
-⬜ Terraform
-
-⬜ AWS
-
-⬜ Ansible
-
-⬜ Python for DevOps
+✔ Linux  
+✔ Bash Scripting  
+✔ Git & GitHub  
+✔ AWS  
+⬜ Docker  
+⬜ Jenkins  
+⬜ Kubernetes  
+⬜ Terraform  
+⬜ Ansible  
+⬜ Python for DevOps  
 
 ---
 
 # 📫 Connect with Me
 
-📧 Email: **rohantundalwar2004@gmail.com**
-
-💼 LinkedIn:
-[https://www.linkedin.com/in/rohan-tundalwar](https://www.linkedin.com/in/rohan-tundalwar-27437732b/)
-
-🐙 GitHub:
-https://github.com/rohantundalwar2004
-
-📍 Pune, Maharashtra, India
+📧 **Email:** rohantundalwar2004@gmail.com  
+💼 **LinkedIn:** [Rohan Tundalwar](https://www.linkedin.com/in/rohan-tundalwar-27437732b/)  
+🐙 **GitHub:** [rohantundalwar2004](https://github.com/rohantundalwar2004)  
+📍 **Location:** Pune, Maharashtra, India  
 
 ---
 
